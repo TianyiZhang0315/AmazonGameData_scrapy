@@ -1,7 +1,7 @@
 # AmazonGameData_scrapy
 This is a practice project of scrapy on Python. Data are crawled from Amazon.com with user agents.
 # Project Structure
-PS4_games/
+PS4_games/ <br>
 |-scrapy.cfg
   |-.idea/
   |-ps4_game/
