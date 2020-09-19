@@ -4,7 +4,7 @@ This is a practice project of scrapy on Python. Data are crawled from Amazon.com
 PS4_games/ <br>
 |-scrapy.cfg<br>
 &nbsp;&nbsp;|-.idea/<br>
-  |-ps4_game/<br>
+&emsp;|-ps4_game/<br>
     |-ps4_game/
       |-spiders/
         |-__init__.py
