@@ -3,7 +3,7 @@ This is a practice project of scrapy on Python. Data are crawled from Amazon.com
 # Project Structure
 PS4_games/ <br>
 |-scrapy.cfg<br>
-  |-.idea/<br>
+&nbsp;&nbsp;|-.idea/<br>
   |-ps4_game/<br>
     |-ps4_game/
       |-spiders/
