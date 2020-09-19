@@ -1,19 +1,16 @@
 # AmazonGameData_scrapy
 This is a practice project of scrapy on Python. Data are crawled from Amazon.com with user agents.
 # Project Structure
-PS4_games/ <br>
-|-scrapy.cfg<br>
-&nbsp;&nbsp;|-.idea/<br>
-&emsp;|-ps4_game/<br>
-    |-ps4_game/
-      |-spiders/
-        |-__init__.py
-        |-game_spider.py
-      |-__init__.py
-      |-items.py
-      |-middlewares.py
-      |-pipelines.py
-      |-settings.py
+
+|-ps4_game/ <br/>
+&emsp;|-spiders/ <br/>
+&emsp;&emsp;|-__init__.py <br/>
+&emsp;&emsp;|-game_spider.py <br/>
+&emsp;|-__init__.py <br/>
+&emsp;|-items.py <br/>
+&emsp;|-middlewares.py <br/>
+&emsp;|-pipelines.py <br/>
+&emsp;|-settings.py <br/>
     
 # Data Features and Storage
 Each product is described by six features for further analyze: name, price, star, n_sale, year and platform. "Platform" field is used to make
